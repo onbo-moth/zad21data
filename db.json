@@ -1,0 +1,98 @@
+{
+    "routes": [
+        {
+            "id": 1,
+            "route": [57, 15, 58, 15],
+            "name": "Walk in the park.",
+            "length": 680,
+            "description": "A nice walk through the nature.",
+            "type": "walking",
+            "image_url": "https://images.unsplash.com/photo-1693568156871-8186f9cea6b5",
+            "best_lap": [1682920130, 140]
+        },
+        {
+            "id": 2,
+            "route": [50, 19, 49, 19],
+            "name": "Bicycle Duocycle.",
+            "length": 2710,
+            "description": "Twice the natural scenery.",
+            "type": "bicycle",
+            "image_url": "https://images.unsplash.com/photo-1666477934090-63f55266b21c",
+            "best_lap": [1724446237, 382]
+        },
+        {
+            "id": 4,
+            "route": [0, 0, 1, 1],
+            "name": "Fantastic Forest.",
+            "length": 1190,
+            "description": "Walking through the magical areas.",
+            "type": "walking",
+            "image_url": "https://images.unsplash.com/photo-1507486435406-33d376619b3d",
+            "best_lap": [1734446298, 293]
+        },
+        {
+            "id": 5,
+            "route": [0, 0, 1, 1],
+            "name": "Town Tour.",
+            "length": 1200,
+            "description": "You might find something on the way.",
+            "type": "walking",
+            "image_url": "https://images.unsplash.com/photo-1536426910260-61cb1e1df4d7",
+            "best_lap": [1400012321, 240]
+        },
+        {
+            "id": 6,
+            "route": [0, 0, 1, 1],
+            "name": "Downhill Showdown.",
+            "length": 720,
+            "description": "A true test for fast bicycling!",
+            "type": "bicycle",
+            "image_url": "https://images.unsplash.com/photo-1497514789819-4190972b5575",
+            "best_lap": [1380138022, 38]
+        },
+        {
+            "id": 7,
+            "route": [0, 0, 1, 1],
+            "name": "Uphill Endurance.",
+            "length": 950,
+            "description": "How long can you last going upward?",
+            "type": "bicycle",
+            "image_url": "https://images.unsplash.com/photo-1505235180596-6c1876a9f9eb",
+            "best_lap": [1528282810, 135]
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "nick": "speedrunner",
+            "last_time": [
+                {
+                    "route_id": 1,
+                    "time": 72,
+                    "date": 0
+                },
+                {
+                    "route_id": 2,
+                    "time": 72,
+                    "date": 0
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "nick": "snorlax",
+            "last_time": [
+                {
+                    "route_id": 4,
+                    "time": 672,
+                    "date": 0
+                },
+                {
+                    "route_id": 5,
+                    "time": 1172,
+                    "date": 0
+                }
+            ]
+        }
+    ]
+}
